@@ -1,0 +1,47 @@
+/****** Main Styling ******/
+
+body {
+  font-family: 'Comic', sans-serif;
+  font-size: 16px;
+  color: rgb(243, 236, 236);
+  background-color: #0f0d0d;
+  text-align: center;
+  line-height: 1.4em;
+}
+
+.container {
+  padding: 0;
+  margin-top: 40px;
+  border: 1px solid wheat;
+}
+
+h3 {
+  margin: 30px;
+}
+
+hr {
+  margin: 25px;
+}
+
+.footer {
+  margin-top: 40px;
+}
+
+code {
+  font-family: monospace;
+  padding: 2px;
+  color: rgb(243, 239, 239);
+  background-color: rgb(13, 14, 13);
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+a {
+  color: #a93925;
+}
