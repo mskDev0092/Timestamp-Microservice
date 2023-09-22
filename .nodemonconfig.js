@@ -1,3 +1,4 @@
 module.exports = {
-    watch: ['index.js'],
+  "watchAll": true,
+  "ignore": ["node_modules"]
   };
