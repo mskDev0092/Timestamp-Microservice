@@ -3,7 +3,7 @@
 
 The Timestamp Microservice project by freeCodeCamp is a Node.js API that can convert dates into Unix timestamps and UTC format. It is a good project for beginners to practice building microservices, as it is relatively straightforward to implement and passes a variety of tests.
 
-### How Timestamp Microservice was build:
+### To build your own Header Parser Microservice, you will need to:
 
 > Create a new Node.js project and install the Express.js framework.
 
